@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+hello from main and now rebase
+=======
+helllo from branch
+>>>>>>> conflict
